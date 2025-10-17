@@ -1,41 +1,58 @@
-## Hi there 👋
+# Hi there 👋  
 
-I'm Hugo, a software developer with a strong focus on **mobile** and **Web3** development. My background spans **iOS (Swift, Objective‑C)**, **Android (Kotlin, Java)**, and **C‑family languages**, and I have recently moved into **blockchain engineering** with a focus on **smart contracts, decentralized applications, and secure asset tokenization**.
+I'm **Hugo**, a **technical founder and systems architect** working across **Web3**, **AI**, and **mobile ecosystems**.  
 
-### 🚀 What I Do
-- **Web3 Development:** 
-  - Smart contracts in Solidity for EVM‑based networks.
-  - Current work on **Oncoming Network** using the **Camino network** for tokenizing real‑world assets.
-  - Integration of smart contracts with TypeScript/React frontends and Node.js/GraphQL backends.
-  - Web3 tooling: Hardhat, Ethers.js, contract testing and deployment.
-- **Full‑Stack Engineering:** Building end‑to‑end dApps with TypeScript, React, Node.js, and GraphQL.
-- **Mobile Development:** Extensive iOS experience with Swift and Objective‑C, plus Android in Kotlin and Java.
-- **Software Architecture:** Designing secure, scalable systems with strong typing and maintainable structures.
-- **AI & RAG Systems:** Implementing knowledge retrieval pipelines to enhance AI responses.
-- 
-### 🧠 LLM Customization
-- **Retrieval-Augmented Fine-Tuning (RAFT):** Building domain-specific models that combine retrieval-augmented generation with fine-tuning to improve contextual accuracy and reduce hallucinations.
-- **Text-to-SQL Pipelines:** Implementing natural language interfaces for databases, enabling users to query structured data through conversational prompts. Includes query generation, optimization, and execution with validation layers.
-- **Integration:** Deploying these capabilities into existing platforms with API endpoints, secure access controls, and scalable cloud infrastructure.
+Founder of **KODE** and **BOGOWI**, I design and deploy **interoperable systems** that connect on-chain assets, local networks, and real-world use cases.  
+My focus is on **architecture, governance, and applied decentralization** — building systems that are technically sound and socially relevant.  
 
-### 🌱 Currently Exploring
-- Multi‑chain deployment strategies and bridging.
-- Token standards (ERC‑20, ERC‑721, ERC‑1155) and compliance in regulated environments.
-- Secure signing, wallet integration, and transaction optimization.
-- Graph theory and network topology applied to blockchain consensus and routing.
+---
 
-### 🛠️ Technologies & Tools
-- **Languages:** Solidity, Swift, Objective‑C, Kotlin, Java, C, C++, Python, Rust (beginner)
-- **Web3:** Solidity, Hardhat, Ethers.js, web3.js, IPFS
-- **Backend:** Node.js, GraphQL, Python, Bash
-- **Frontend:** React, Redux, Chakra UI, Material UI
-- **Infrastructure:** AWS, serverless microservices
-- **Testing:** Gherkin (Given‑When‑Then), contract testing with Hardhat/Chai
+## ⚙️ Core Domains  
 
-### ✨ Beyond Tech
-- Jazz drummer and baroque guitarist.
-- Transitioning to a nomadic life at sea while continuing software projects.
+### 🧩 Web3 & System Architecture  
+- Architect of the **BOGOWI Ecosystem** on the **Camino Network**, integrating NFTs, loyalty tokens (BOGO), and DAO-driven conservation funding.  
+- Smart contract design for **compliant real-world token flows** and **interoperable multi-contract systems**.  
+- Definition of **wallet SDKs**, node orchestration, and off-chain API bridges.  
+- Data architecture for **hybrid on/off-chain environments** and traceable event streams.  
 
-### 📫 Get in Touch
-- **LinkedIn:** [https://www.linkedin.com/in/umwelthugo/]
-- **Email:** [hugo@kode.zone]
+### 🤖 AI & Knowledge Infrastructure  
+- Design of **Retrieval-Augmented Fine-Tuning (RAFT)** pipelines for contextual AI systems.  
+- Implementation of **semantic data layers** and **text-to-SQL** interfaces for verifiable decision support.  
+- Focus on **AI transparency**, **data provenance**, and **graph-based retrieval** in decentralized settings.  
+
+### 📱 Mobile & Frontend Systems  
+- Direction and architecture for **cross-platform wallet apps** built in **React Native** with native iOS/Android modules.  
+- Integration of blockchain identity, credential storage, and **local-first UX** principles.  
+- Experience with secure persistence, offline data sync, and modular API design.  
+
+### 🌐 BLE & IoT Networks  
+- Creator of **BOGOWI_BLE**, a distributed Bluetooth beacon network linking cultural landmarks to digital interaction.  
+- Combining **3D-printed enclosures**, **BLE payload design**, and **geospatial event routing**.  
+- Focus on low-power networking and decentralized data collection.  
+
+---
+
+## 🧭 Current Focus  
+- Governance and coordination models for **DAO-based conservation**.  
+- **Multi-chain interoperability** and **cross-network wallet integration**.  
+- AI-driven infrastructure for decentralized ecosystems.  
+- Application of **graph theory and topology** to consensus and network routing.  
+
+---
+
+## 🧠 Stack (Directional Overview)  
+**Languages:** Solidity, Swift, Kotlin, TypeScript, Python, Rust (learning)  
+**Frameworks:** React, React Native, Node.js, GraphQL, Hardhat, Ethers.js  
+**Infrastructure:** AWS, Docker, Serverless, Camino Nodes  
+**Testing:** Gherkin (Given-When-Then), Jest, Chai  
+
+---
+
+## 🎶 Beyond Code  
+Jazz drummer, baroque guitarist, and sailor-in-training — exploring how rhythm, systems, and navigation follow the same logic of coherence and balance.  
+
+---
+
+## 📫 Contact  
+- **LinkedIn:** [linkedin.com/in/umwelthugo](https://www.linkedin.com/in/umwelthugo/)  
+- **Email:** [hugo@kode.zone](mailto:hugo@kode.zone)
